@@ -1,0 +1,19 @@
+body {
+    background-color:rgb(158, 208, 191);
+}
+.navbar {
+    color: rgb(13, 6, 114);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:italic;
+}
+.navbar li {
+    background:lavender;
+    padding: 0;
+    margin: 0.9em 0;
+    border-left: black;
+}
+h1 {
+    color:rgb(57, 0, 101);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:italic;
+}
