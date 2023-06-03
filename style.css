@@ -1,7 +1,12 @@
 body {
     background-color:rgb(158, 208, 191);
+    padding-left: 14em;
 }
-.navbar {
+ul.navbar {
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em;
     color: rgb(13, 6, 114);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style:italic;
@@ -16,4 +21,8 @@ h1 {
     color:rgb(57, 0, 101);
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style:italic;
+}
+h2 {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(0, 58, 248);
 }
